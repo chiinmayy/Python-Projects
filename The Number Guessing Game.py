@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#The Number Guessing Game
-
-
-# In[3]:
-
-
 import random
 top_of_range = input('Type a number: ')
 if top_of_range.isdigit():
@@ -44,7 +32,6 @@ while True:
 print('You got it in', guesses, 'guesses.')
 
 
-# In[ ]:
 
 
 
